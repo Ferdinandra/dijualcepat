@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Narrow Jumbotron Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/editor.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="narrow-jumbotron.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Project name</h3>
+      </div>
+
+      <div class="jumbotron">
+        <h1 class="display-3">DI JUAL CEPAT</h1>
+        <p class="lead">Di jual Rumah di daerah pusat kota serang, tepatnya di Link.Rau Timur Cimuncang Serang.</p>
+        <p><a class="btn btn-lg btn-success" href="#" role="button">WhatsApp</a></p>
+      </div>
+
+      <div class="row marketing">
+        <div class="col-lg-6">
+          <h4>Lokasi</h4>
+          <p>Berada di Pusat Kota Serang, dekat dengan Polres Serang, Pom Bensin, Rumah Sakit Budi Asih, Mc Donald, Pasar Rau dan lain-lain. Kuliner 24 jam. Akses angkutan kota selalu ada.</p>
+
+          <h4>Fasilitas</h4>
+          <p>Akses jalan masuk mobil, Rumah ada garasi, lingkungan aman &amp; nyaman.</p>
+
+          <h4>Legalitas</h4>
+          <p>Telah Sertifikat Hak Milik (SHM) dan Ijin Mendirikan Bangunan (IMB)</p>
+        </div>
+
+        <div class="col-lg-6">
+          <h4>Bangunan</h4>
+          <p>Bangunan Permanen berpagar, luas 110 m2, 2 Kamar Tidur, 1 Garasi, 3 Kamar Mandi, 1 Ruang Tamu, 1 Ruang Keluarga, 1 Dapur &amp; Deck atas jemuran.</p>
+
+          <h4>Lingkungan</h4>
+          <p>Lingkungan aman &amp; nyaman dengan sistem ronda dan pengelolaan sampah, ramai dengan kegiatan keagamaan dan kegiatan perlombaan 17an dan lainnya.</p>
+
+          <h4>Gaya Hidup</h4>
+          <p>Gaya hidup rukun damai bermasyarakat.</p>
+        </div>
+      </div>
+
+      <footer class="footer">
+        <p>© Cep Predi 2026</p>
+      </footer>
+
+    </div> <!-- /container -->
+  
+
+</body>
+</html>
